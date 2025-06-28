@@ -1,7 +1,7 @@
 ## Hardware Requirement
 * 8 GB Ram
 
-## Nexus-testnet-3
+## Nexus-testnet - 3
 ***
 
 # Install dependencies
