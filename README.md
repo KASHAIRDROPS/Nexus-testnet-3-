@@ -44,6 +44,6 @@ nexus-network start --node-id <your-node-id>
 ```
   Screen -r nexus
 ```
-## JOIN OUR TELGRAM IF YOU FACE ANT TYPE OF ERROR-- https://cryptoaabid
+## JOIN OUR TELGRAM IF YOU FACE ANY TYPE OF ERROR-- https://cryptoaabid
 
   
