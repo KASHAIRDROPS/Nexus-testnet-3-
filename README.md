@@ -1,3 +1,6 @@
+## Hardware Requirement
+* 8 GB Ram
+
 ## Nexus-testnet-3
 
 # Install dependencies
@@ -36,10 +39,10 @@ nexus-network start --node-id <your-node-id>
 ## Only For VPS Users
 * Exit the screen session (Ctrl+A+D)
 
-##TO see Node Logs
+## Watch Node Logs And Activity
 ```
   Screen -r nexus
 ```
-## JOIN OUR TELGRAM -- https://cryptoaabid
+## JOIN OUR TELGRAM IF YOU FACE ANT TYPE OF ERROR-- https://cryptoaabid
 
   
